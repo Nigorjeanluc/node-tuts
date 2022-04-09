@@ -12,6 +12,8 @@
 
 // console.log( 'end' );
 
+// more examples
+
 // Example Two
 
 function delay(seconds, callback) {
