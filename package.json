@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "log-update": "^5.0.0"
+  },
+  "name": "lindedin-tutorial",
+  "version": "1.0.0",
+  "description": "Node tutorial",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Jean Luc Ndiramiye",
+  "license": "ISC",
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  }
+}
